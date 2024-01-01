@@ -3,7 +3,7 @@
 
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">Propósito de resolver grandes desafios utilizando tecnologia. <br><br> Minha jornada envolve explorar o mundo do desenvolvimento web, desde a construção de sistemas robustos no backend com Node até a criação de interfaces interativas no frontend com ReactJS., Tenho uma <strong>paixão ardente por aprender</strong> e aplicar novos conhecimentos na produção de soluções sofisticadas e de qualidade. Atualmente, atuo como um <strong>desenvolvedor full stack de competência intermediária,</strong> om foco em aprimorar e inovar em projetos web.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Wallysson-utfpr&theme=radical&mode=weekly" />
