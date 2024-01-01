@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="[https://github.com/Wallysson-utfpr/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd](https://github.com/Wallysson-utfpr/Wallysson-utfpr/blob/main/Walysson%20(5).png)" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/rafaelalexandrino/rafaelalexandrino/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 
 &nbsp;&nbsp;&nbsp;
 
