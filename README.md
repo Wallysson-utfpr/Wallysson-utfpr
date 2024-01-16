@@ -5,7 +5,7 @@
 
 <p align="center">Propósito de resolver grandes desafios utilizando tecnologia. <br><br> Minha jornada envolve explorar o mundo do desenvolvimento web, desde a construção de sistemas robustos no backend com Node até a criação de interfaces interativas no frontend com ReactJS., Tenho uma <strong>paixão ardente por aprender</strong> e aplicar novos conhecimentos na produção de soluções sofisticadas e de qualidade. Atualmente, atuo como um <strong>desenvolvedor full stack de competência intermediária,</strong> com foco em aprimorar e inovar em projetos web.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
+<div align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Wallysson-utfpr&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-Wallysson-utfpr.vercel.app/api/top-langs/?username=Wallysson-utfpr&show_icons=true&theme=radical&layout=compact" />
  </div>
